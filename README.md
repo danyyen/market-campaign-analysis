@@ -1,5 +1,5 @@
 # market-campaign-analysis
-  Analysis using python to drive campaign insights for business growth.
+  Analysis using Python to drive campaign insights for business growth.
 
 ---------------------
 # Marketing Campaign Analysis
