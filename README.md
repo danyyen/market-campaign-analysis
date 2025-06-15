@@ -1,12 +1,13 @@
-# market-campaign-analysis
-  Analysis using Python to drive campaign insights for business growth.
 
----------------------
 # Marketing Campaign Analysis
 
 --------------------
 
 Analyze marketing data and address some important business problems/questions.
+
+---------------------
+# Tools used
+  Python Frameworks - pandas, matplotlib, seaborn, jupyter notebook
 
 ---------------------
 ## Context
